@@ -112,7 +112,7 @@ textarea {
     background-size: cover;
     width: 1150px;
     height: 3500px;
-    float: right;
+    float: left;
     overflow: visible;
     margin-left: 300px;
 }
